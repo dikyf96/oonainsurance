@@ -1,0 +1,1 @@
+install di terminal npm init playwright@latest
